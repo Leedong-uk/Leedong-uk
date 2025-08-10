@@ -1,22 +1,48 @@
-## Hi there 👋
+<!-- 헤더 -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐣동욱&fontSize=80&fontAlign=80" />
+</p>
 
-<!--
-**Leedong-uk/Leedong-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐣동욱&fontSize=80&fontAlign=80)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leedong-uk)](https://github.com/Leedong-uk/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leedong-uk)](https://github.com/Leedong-uk/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=du123kim)](https://solved.ac/du123kim) [![GitHub Streak](https://streak-stats.demolab.com/?user=Leedong-uk&theme=default)](https://git.io/streak-stats)
-
-
+<!-- 2x2 그리드 -->
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Leedong-uk/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api?username=Leedong-uk&show_icons=true&hide_border=true"
+          width="420"
+          alt="GitHub stats"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Leedong-uk/github-readme-stats">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leedong-uk&layout=compact&hide_border=true"
+          width="420"
+          alt="Top Languages"
+        />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://solved.ac/du123kim">
+        <img
+          src="https://mazassumnida.wtf/api/v2/generate_badge?boj=du123kim"
+          width="420"
+          alt="Solved.ac Profile"
+        />
+      </a>
+    </td>
+    <td>
+      <a href="https://git.io/streak-stats">
+        <img
+          src="https://streak-stats.demolab.com?user=Leedong-uk&hide_border=true"
+          width="420"
+          alt="GitHub Streak"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
