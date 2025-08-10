@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐣동욱&fontSize=80&fontAlign=80)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leedong-uk)](https://github.com/Leedong-uk/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leedong-uk)](https://github.com/Leedong-uk/github-readme-stats)
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=du123kim)](https://solved.ac/du123kim) [![GitHub Streak](https://streak-stats.demolab.com/?user=Leedong-uk&theme=dark)](https://git.io/streak-stats)
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=du123kim)](https://solved.ac/du123kim) [![GitHub Streak](https://streak-stats.demolab.com/?user=Leedong-uk&theme=default)](https://git.io/streak-stats)
 
 
