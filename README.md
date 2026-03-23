@@ -14,7 +14,7 @@
 <p align="center">
   <a href="https://le2donguk.tistory.com/" target="_blank">
     <img 
-      src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Visit%20My%20Trouble%20Shooting%20Blog%20🚀&fontSize=30"
+      src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Visit%20My%20Blog%20🚀&fontSize=30"
     />
   </a>
 </p>
