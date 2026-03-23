@@ -4,8 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐣동욱&fontSize=80&fontAlign=80" />
 </p>
 <!-- Blog Section -->
-<h2 align="center">📚 My Tech Blog</h2>
-
+<h2 align="center">📚 My Blog</h2>
 <p align="center">
   <a href="https://le2donguk.tistory.com/" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/>
