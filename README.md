@@ -1,6 +1,23 @@
+
 <!-- 헤더 -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=🐣동욱&fontSize=80&fontAlign=80" />
+</p>
+<!-- Blog Section -->
+<h2 align="center">📚 My Tech Blog</h2>
+
+<p align="center">
+  <a href="https://le2donguk.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-FF5A4A?style=for-the-badge&logo=tistory&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://le2donguk.tistory.com/" target="_blank">
+    <img 
+      src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=120&section=header&text=Visit%20My%20Trouble%20Shooting%20Blog%20🚀&fontSize=30"
+    />
+  </a>
 </p>
 
 <!-- 2x2 그리드 -->
